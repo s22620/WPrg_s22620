@@ -1,0 +1,13 @@
+package com.example.jazs22620nbp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Jaz22620NbpApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
